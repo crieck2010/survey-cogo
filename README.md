@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> **Consolidated into [SurveySuite](https://github.com/crieck2010/survey-suite)**  
+> This engine has been consolidated into the unified [SurveySuite monorepo](https://github.com/crieck2010/survey-suite). Active development, releases, and unified testing now live in `survey-suite`. This repository is preserved as an archive.
+
 # survey-cogo
 
 A pure-Python, dependency-free **coordinate geometry (COGO) engine** for surveying: inverses, forwards, intersections, traverse computation and adjustment, and polygon area.
@@ -153,3 +157,4 @@ survey-cogo/
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
